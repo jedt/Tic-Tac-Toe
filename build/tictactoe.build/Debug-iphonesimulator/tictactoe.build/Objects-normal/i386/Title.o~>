@@ -1,0 +1,20 @@
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:10:22: error: GameTitle.h: No such file or directory
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:14: warning: cannot find interface declaration for 'GameTitle'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m: In function '+[GameTitle scene]':
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:20: error: 'Title' undeclared (first use in this function)
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:20: error: (Each undeclared identifier is reported only once
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:20: error: for each function it appears in.)
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:20: error: 'layer' undeclared (first use in this function)
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m: In function '-[GameTitle init]':
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:34: error: no super class declared in @interface for 'GameTitle'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:35: warning: 'GameTitle' may not respond to '-setUpMenus'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:35: warning: (Messages without a matching method signature
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:35: warning: will be assumed to return 'id' and accept
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:35: warning: '...' as arguments.)
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:52: warning: 'GameTitle' may not respond to '-addChild:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:56: warning: class 'GameTitle' does not implement the 'CCTargetedTouchDelegate' protocol
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:59: error: request for member 'isTouchEnabled' in something not a structure or union
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m: In function '-[GameTitle setUpMenus]':
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:69: warning: 'GameTitle' may not respond to '-addChild:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m: In function '-[GameTitle dealloc]':
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/Title.m:88: error: no super class declared in @interface for 'GameTitle'

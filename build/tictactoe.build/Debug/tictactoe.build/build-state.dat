@@ -1,0 +1,87 @@
+Ttictactoe
+v7
+r1
+
+N/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Resources/Default.png
+c000000004D54EB5400000000000077AB
+t1297410900
+s30635
+
+N/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Resources/Icon.png
+c000000004D54EB54000000000000246F
+t1297410900
+s9327
+
+N/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Resources/fps_images.png
+c000000004D54EB54000000000000183B
+t1297410900
+s6203
+
+N/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Resources/grid.png
+c000000004D54ED1200000000000006FB
+t1297411346
+s1787
+
+N/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Resources/square.png
+c000000004D54ED1200000000000006FB
+t1297411346
+s1787
+
+N/Users/jedtiotuico/Documents/XCode/project1/tictactoe/build/Debug/tictactoe.app
+t2
+s0
+
+N/Users/jedtiotuico/Documents/XCode/project1/tictactoe/build/Debug/tictactoe.app/Contents/Info.plist
+t2
+s0
+
+N/Users/jedtiotuico/Documents/XCode/project1/tictactoe/build/Debug/tictactoe.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/jedtiotuico/Documents/XCode/project1/tictactoe/build/Debug/tictactoe.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/jedtiotuico/Documents/XCode/project1/tictactoe/build/Debug/tictactoe.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/jedtiotuico/Documents/XCode/project1/tictactoe/build/Debug/tictactoe.app/Contents/Resources/fps_images.png
+t2
+s0
+
+N/Users/jedtiotuico/Documents/XCode/project1/tictactoe/build/Debug/tictactoe.app/Contents/Resources/grid.png
+t2
+s0
+
+N/Users/jedtiotuico/Documents/XCode/project1/tictactoe/build/Debug/tictactoe.app/Contents/Resources/square.png
+t2
+s0
+
+NResources/Info.plist
+c000000004D54EB54000000000000038E
+t1297410900
+s910
+
+CCpResource build/Debug/tictactoe.app/Contents/Resources/Default.png Resources/Default.png
+r0
+
+CCpResource build/Debug/tictactoe.app/Contents/Resources/Icon.png Resources/Icon.png
+r0
+
+CCpResource build/Debug/tictactoe.app/Contents/Resources/fps_images.png Resources/fps_images.png
+r0
+
+CCpResource build/Debug/tictactoe.app/Contents/Resources/grid.png Resources/grid.png
+r0
+
+CCpResource build/Debug/tictactoe.app/Contents/Resources/square.png Resources/square.png
+r0
+
+CProcessInfoPlistFile /Users/jedtiotuico/Documents/XCode/project1/tictactoe/build/Debug/tictactoe.app/Contents/Info.plist Resources/Info.plist
+r0
+
+CTouch /Users/jedtiotuico/Documents/XCode/project1/tictactoe/build/Debug/tictactoe.app
+r0
+

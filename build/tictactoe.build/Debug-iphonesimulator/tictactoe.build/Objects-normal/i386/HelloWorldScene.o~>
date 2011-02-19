@@ -1,0 +1,93 @@
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:10:22: error: PlayScene.h: No such file or directory
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:16: warning: cannot find interface declaration for 'Play'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m: In function '+[Play scene]':
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:34: error: 'HelloWorld' undeclared (first use in this function)
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:34: error: (Each undeclared identifier is reported only once
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:34: error: for each function it appears in.)
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:34: error: 'layer' undeclared (first use in this function)
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m: In function '-[Play init]':
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:63: error: 'lastY' undeclared (first use in this function)
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:65: error: no super class declared in @interface for 'Play'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:70: warning: 'Play' may not respond to '-addChild:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:70: warning: (Messages without a matching method signature
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:70: warning: will be assumed to return 'id' and accept
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:70: warning: '...' as arguments.)
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:75: warning: 'Play' may not respond to '-displaySprite:atIndex:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:79: error: request for member 'isTouchEnabled' in something not a structure or union
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m: In function '-[Play registerWithTouchDispatcher]':
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:85: warning: class 'Play' does not implement the 'CCTargetedTouchDelegate' protocol
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m: In function '-[Play ccTouchEnded:withEvent:]':
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:91: warning: 'Play' may not respond to '-convertTouchToNodeSpace:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:91: error: invalid initializer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:95: warning: 'Play' may not respond to '-getTouchedSquare:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:95: warning: assignment makes integer from pointer without a cast
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:105: warning: 'Play' may not respond to '-changeSprite:index:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:107: warning: 'Play' may not respond to '-isGameOver'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:107: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:110: warning: 'Play' may not respond to '-isGameOver'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:110: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m: In function '-[Play isGameOver]':
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:118: warning: 'Play' may not respond to '-checkIfWin:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:118: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:121: warning: 'Play' may not respond to '-checkIfWin:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:121: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m: In function '-[Play checkIfWin:]':
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:139: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:139: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:140: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:140: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:141: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:141: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:147: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:147: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:148: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:148: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:149: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:149: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:155: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:155: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:156: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:156: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:157: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:157: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:165: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:165: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:166: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:166: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:167: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:167: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:174: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:174: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:175: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:175: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:176: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:176: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:183: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:183: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:184: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:184: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:185: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:185: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:192: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:192: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:193: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:193: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:194: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:194: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:200: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:200: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:201: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:201: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:202: warning: 'Play' may not respond to '-checkValue:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:202: warning: comparison between pointer and integer
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m: In function '-[Play changeSprite:index:]':
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:221: warning: 'Play' may not respond to '-getChildByTag:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:222: warning: 'Play' may not respond to '-removeChild:cleanup:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:235: warning: 'Play' may not respond to '-displaySprite:atIndex:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m: In function '-[Play displaySprite:atIndex:]':
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:335: warning: 'Play' may not respond to '-addChild:z:tag:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m: In function '-[Play displayText:]':
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:342: error: 'lastY' undeclared (first use in this function)
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:348: warning: 'Play' may not respond to '-addChild:'
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m: In function '-[Play dealloc]':
+/Users/jedtiotuico/Documents/XCode/project1/tictactoe/Classes/HelloWorldScene.m:359: error: no super class declared in @interface for 'Play'
